@@ -9,7 +9,7 @@ A official git repo for the Cowboy's Drone Cones Assignment
 
 ### What does a successful product look like?
 
-     *   Our software (Drone Cones) hopes to provide a user – and the market in general – the means to provide a chilly treat on a hot day. For too long individuals in the community have been subjected to melted or     subpar treats in a toasty environment. Drone Cones hopes to eliminate this burden on the user, offering remote delivered, fully autonomous solutions for the delivery of ice treats. Other solutions in the way of deliverable ice cream have either 
+*   Our software (Drone Cones) hopes to provide a user – and the market in general – the means to provide a chilly treat on a hot day. For too long individuals in the community have been subjected to melted or     subpar treats in a toasty environment. Drone Cones hopes to eliminate this burden on the user, offering remote delivered, fully autonomous solutions for the delivery of ice treats. Other solutions in the way of deliverable ice cream have either 
         1. Failed to develop pre existing solutions,
      or 
         2. Failed to establish specific infrastructure for ice cream delivery. 
