@@ -1,5 +1,4 @@
 # Cowboys_Drone_Cones
-===========================
 A official git repo for the Cowboy's Drone Cones Assignment
 
 ## Requirements
